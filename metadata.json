@@ -1,0 +1,6 @@
+{
+  "name": "AeroSim Fighter Flight & Systems Simulator",
+  "description": "Engineering-grade synthetic fighter aircraft flight dynamics and systems simulator featuring 6-DOF physics, full avionics suite, electrical, hydraulic, fuel, and engine state machines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
